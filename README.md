@@ -1,6 +1,6 @@
 👋 Hi, I'm Madhu Jaisawat
 
-🧪 QA Engineer with 8.8 years of experience in Building Automation Systems, including Metasys and Facility Explorer (FX). I’ve worked extensively on Niagara N4–based FX modules using JACE controllers, validating complex workflows, field devices, and system integrations.
+🧪 QA Engineer with 8.8 years of experience in Building Automation Systems, including Johnson Controls International's main projects like Metasys and Facility Explorer (FX). I’ve worked extensively on Niagara N4–based FX modules using JACE controllers, validating complex workflows, field devices, and system integrations.
 
 I specialize in functional, regression, GUI, and API testing across enterprise and web-based applications, with a strong focus on quality, reliability, and release readiness.
 
